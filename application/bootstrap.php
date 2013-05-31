@@ -103,8 +103,13 @@ Kohana::modules(array(
 	// 'cache'      => MODPATH.'cache',      // Caching with multiple backends
 	// 'codebench'  => MODPATH.'codebench',  // Benchmarking tool
 	// 'database'   => MODPATH.'database',   // Database access
+	// 'sqlite'     => MODPATH.'sqlite',     // Sqlite access
+	// 'pagination' => MODPATH.'pagination', // Pagination
 	// 'image'      => MODPATH.'image',      // Image manipulation
+	// 'captcha'    => MODPATH.'captcha',    // Captcha
 	// 'orm'        => MODPATH.'orm',        // Object Relationship Mapping
+	// 'orm-mptt'   => MODPATH.'orm-mptt',   // Orm-mptt
+	// 'email'      => MODPATH.'email',      // Email
 	// 'unittest'   => MODPATH.'unittest',   // Unit testing
 	// 'userguide'  => MODPATH.'userguide',  // User guide and API documentation
 	));
